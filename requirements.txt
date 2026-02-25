@@ -1,3 +1,5 @@
 playwright
 requests
 python-dotenv
+feedparser
+beautifulsoup4
